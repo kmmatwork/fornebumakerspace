@@ -8,5 +8,4 @@ github_username: FornebuMakerspace
 markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
